@@ -52,7 +52,7 @@ Console.WriteLine("Среднее арифметическое элементо�
                 
         }
         double average = (double) sum / matrix.GetLength(0);
-        //int n = j + 1;
+        
         
         Console.Write($"{average:f2}\t ");
 
